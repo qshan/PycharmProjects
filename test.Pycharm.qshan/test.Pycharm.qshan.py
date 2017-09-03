@@ -90,7 +90,7 @@ test_son_test_qshan = son_test_qshan("Xiaoxiao", 15, "Student")
 
 print "#Class test#, print display name: ", test_son_test_qshan.name
 test_son_test_qshan.display_job()
-print "#Class test#, print display job: ", test_son_test_qshan.job
+print "##Class test##, print display job: ", test_son_test_qshan.job
 
 pass
 
